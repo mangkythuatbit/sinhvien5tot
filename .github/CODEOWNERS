@@ -1,1 +1,13 @@
+# Người quản lý chung hoặc tech lead cho toàn bộ dự án
+* @tech-lead-username
+
+# Phụ trách phần Front-end
+/src/components/ @frontend-team-username
+
+# Phụ trách phần Back-end (API hoặc Backend)
+/src/api/ @backend-team-username
+/backend/ @backend-team-username
+
+# Phụ trách tài liệu đặc tả cho BA
+/docs/ @ba-username
 
